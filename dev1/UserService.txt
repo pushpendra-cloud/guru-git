@@ -4,3 +4,5 @@ user can not delete the data
 user has to give the permission before delete the data
 new version loaded
 data will be deleted if user left
+less sweek gives more happiness
+its by mahatma gandhi 
