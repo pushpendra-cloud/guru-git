@@ -1,0 +1,4 @@
+user has to see the data
+user will read the datauser will cache the datauser will remove the data
+user can not delete the data
+user has to give the permission before delete the data
